@@ -3,7 +3,6 @@
 <h2>👨‍💻 Information Technology Projects:</h2> https://www.linkedin.com/in/valeskasantana/
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/vsantana8/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/vsantana8/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/vsantana8/ticket-lifecycle)
 - <b>Microsoft Azure</b>
