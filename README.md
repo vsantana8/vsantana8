@@ -1,7 +1,6 @@
 <h1>Hi, I'm Valeska, an <a href="https://linkedin.com/in/valeskasantana/">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2> https://www.linkedin.com/in/valeskasantana/
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/vsantana8/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/vsantana8/ticket-lifecycle)
